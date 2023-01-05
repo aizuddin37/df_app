@@ -1,16 +1,12 @@
 # rf_app
 
-A new Flutter project.
+A new Flutter project.In creating mostly focus on making CRUD using flutter BLoC structure
 
-## Getting Started
+## Materials:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Figma: design of the app](https://www.figma.com/file/8vLosaoZAzn31yL9CuDLGp/Flutter-mockup-UI?node-id=16%3A1765&t=ZXBMeb8fD3ZEP5yX-0)
+- [Postman: API for the projects](https://documenter.getpostman.com/view/9635545/UVREkQNrk)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
